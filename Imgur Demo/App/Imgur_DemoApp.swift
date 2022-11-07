@@ -11,7 +11,7 @@ import SwiftUI
 struct Imgur_DemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GalleryView()
         }
     }
 }
